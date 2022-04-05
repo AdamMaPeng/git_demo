@@ -12,6 +12,6 @@ public class MyGitTests {
         System.out.println("hello hot-fix modify 3 !");
         System.out.println("hello hot-fix Test !");
         System.out.println("hello master Test !");
-
+         System.out.println("Gitee 手动更新去哟");
     }
 }
